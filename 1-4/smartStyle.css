@@ -5,12 +5,14 @@
 
   .green {
     width: 100px;
+    height: 100px;
   }
   .red {
     width: 200px;
   }
   .orange {
     width: 75px;
+    height: 100px;
   }
   .yellow {
     width: 125px;
